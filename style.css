@@ -1,0 +1,17 @@
+.H1{text-decoration: underline
+	font-family:'Times New Roman', Times, serif;  
+    font-size: 150%;
+}
+.text {
+    text-align:  center;
+   }
+
+.layer1, .layer2 {
+	float: left;
+	padding: 20px;
+	margin:30px;  
+	background: #E5D3BD;
+	border: 2px solid #E81E25 ;
+	width: 400px;
+	height: auto;
+}
